@@ -1,0 +1,8 @@
+music
+generation
+music21
+rhythm
+beats
+deep learning
+neural nets
+k-means
