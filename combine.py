@@ -28,14 +28,33 @@ def combineMidis(source_location, write_location, midisToCombine):
     midi.write('midi', new_file_name)
     return new_file_name
 
+"""
 source_location = './new_beats/'
 write_location = './new_songs/'
 midisToCombine = getMidisToCombine(source_location)
 print(midisToCombine)
 new_file_name = combineMidis(source_location, write_location, midisToCombine)
+"""
 
 def getFeatures(source_location, midi_name):
-    return []
+    score = converter.parse(source_location + midi_name)
+
+    features = []
+
+    key = score.analyze('key')
+    features.append(key.tonic.name)
+    features.append(key.mode)
+
+    note_dict = {}
+    for part in score:
+        print(part)
+        for i in part:
+            print(i)
+            if type(i) == 
+
+    return tuple(features)
 
 source_location = './old_songs/'
-print getFeatures(source_location, )
+midi_name = 'California Gurls - Chorus.midi'
+features = getFeatures(source_location, midi_name)
+print(features)
