@@ -39,22 +39,43 @@ new_file_name = combineMidis(source_location, write_location, midisToCombine)
 def getFeatures(source_location, midi_name):
     score = converter.parse(source_location + midi_name)
 
-    features = []
+    features = {}
 
     key = score.analyze('key')
-    features.append(key.tonic.name)
-    features.append(key.mode)
+    features['key'] = key.tonic.name
+    features['mode'] = key.mode
 
-    note_dict = {}
     for part in score:
         print(part)
         for i in part:
-            print(i)
-            if type(i) == 
 
-    return tuple(features)
+            # If this is a music note
+            if str(type(i)) == str(type(note.Note("F5"))): 
+                print(i) 
+                print(i.name)
+                print(i.octave)
+                print(i.quarterLength)
+                
+                if i.name in features:
+                    features[i.name] += 1
+                else:
+                    features[i.name] = 1
+                
+                octave = "octave-" + str(i.octave)
+                if octave in features: 
+                    features[octave] += 1
+                else:
+                    features[octave] = 1
+
+                length = "noteLength-" + str(i.quarterLength)
+                if length in features:
+                    features[length] += 1
+                else:
+                    features[length] = 1
+
+    return features
 
 source_location = './old_songs/'
-midi_name = 'California Gurls - Chorus.midi'
+midi_name = 'Piano man - Bridge.midi'
 features = getFeatures(source_location, midi_name)
 print(features)
