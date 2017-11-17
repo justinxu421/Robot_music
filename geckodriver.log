@@ -1,0 +1,572 @@
+1510888512685	geckodriver	INFO	geckodriver 0.19.1
+1510888512727	geckodriver	INFO	Listening on 127.0.0.1:65215
+1510888515160	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Sicheng\\AppData\\Local\\Temp\\rust_mozprofile.D7nFCmqPGW3K"
+1510888518403	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510888524979	Marionette	INFO	Listening on port 65221
+1510888525557	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510888525957	Marionette	DEBUG	Register listener.js for window 4294967297
+1510888526171	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510888526429	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510888526430	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510888538488	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://splice.com/sounds/beatmaker"
+1510888547477	Marionette	DEBUG	Received DOM event "pageshow" for "https://splice.com/sounds/beatmaker"
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10348, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510888719009	Marionette	INFO	Listening on port 65335
+1510888719105	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510888719344	Marionette	DEBUG	Register listener.js for window 4294967297
+1510888719492	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510888719673	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510888719673	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510888735416	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://splice.com/sounds/beatmaker"
+1510888746242	Marionette	DEBUG	Received DOM event "pageshow" for "https://splice.com/sounds/beatmaker"
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+1510888823687	geckodriver	INFO	geckodriver 0.19.1
+1510888823734	geckodriver	INFO	Listening on 127.0.0.1:65435
+1510888826224	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Sicheng\\AppData\\Local\\Temp\\rust_mozprofile.r2Lgr0Bjs3nC"
+1510888830367	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510888836495	Marionette	INFO	Listening on port 65441
+1510888836923	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510888837200	Marionette	DEBUG	Register listener.js for window 4294967297
+1510888837296	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510888837533	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510888837534	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510888851995	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://splice.com/sounds/beatmaker"
+1510888860720	Marionette	DEBUG	Received DOM event "pageshow" for "https://splice.com/sounds/beatmaker"
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 2076, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+9362577	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510889368791	Marionette	INFO	Listening on port 49192
+1510889368910	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510889369381	Marionette	DEBUG	Register listener.js for window 4294967297
+1510889369615	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510889370860	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510889370861	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510889384668	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://splice.com/sounds/beatmaker"
+1510889391150	Marionette	DEBUG	Received DOM event "pageshow" for "https://splice.com/sounds/beatmaker"
+1510889436983	geckodriver	INFO	geckodriver 0.19.1
+1510889437014	geckodriver	INFO	Listening on 127.0.0.1:49279
+1510889439311	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Sicheng\\AppData\\Local\\Temp\\rust_mozprofile.USq43evVVqpx"
+1510889441670	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510889447426	Marionette	INFO	Listening on port 49285
+1510889447951	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510889448348	Marionette	DEBUG	Register listener.js for window 4294967297
+1510889448476	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510889448825	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510889448826	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510889460863	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://splice.com/sounds/beatmaker"
+1510889467888	Marionette	DEBUG	Received DOM event "pageshow" for "https://splice.com/sounds/beatmaker"
+1510889475285	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510889546552	geckodriver	INFO	geckodriver 0.19.1
+1510889546583	geckodriver	INFO	Listening on 127.0.0.1:49375
+1510889548903	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Sicheng\\AppData\\Local\\Temp\\rust_mozprofile.RZydRXJZ8CVs"
+1510889550980	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510889556828	Marionette	INFO	Listening on port 49381
+1510889557078	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510889557532	Marionette	DEBUG	Register listener.js for window 4294967297
+1510889557666	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510889557909	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510889557910	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510889570708	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://splice.com/sounds/beatmaker"
+1510889577663	Marionette	DEBUG	Received DOM event "pageshow" for "https://splice.com/sounds/beatmaker"
+1510889584417	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510889650212	geckodriver	INFO	geckodriver 0.19.1
+1510889650265	geckodriver	INFO	Listening on 127.0.0.1:49472
+1510889652759	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Sicheng\\AppData\\Local\\Temp\\rust_mozprofile.VXYAtvzRMpgY"
+1510889656663	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510889661455	Marionette	INFO	Listening on port 49482
+1510889661571	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510889662106	Marionette	DEBUG	Register listener.js for window 4294967297
+1510889662300	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510889662756	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510889662757	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510889676286	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://splice.com/sounds/beatmaker"
+1510889683269	Marionette	DEBUG	Received DOM event "pageshow" for "https://splice.com/sounds/beatmaker"
+1510889764230	geckodriver	INFO	geckodriver 0.19.1
+1510889764261	geckodriver	INFO	Listening on 127.0.0.1:49577
+1510889766616	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Sicheng\\AppData\\Local\\Temp\\rust_mozprofile.UmNK59h2MN46"
+1510889768874	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510889775167	Marionette	INFO	Listening on port 49584
+1510889776318	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510889776654	Marionette	DEBUG	Register listener.js for window 4294967297
+1510889776747	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510889776947	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510889776948	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510889790588	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://splice.com/sounds/beatmaker"
+1510889797721	Marionette	DEBUG	Received DOM event "pageshow" for "https://splice.com/sounds/beatmaker"
+1510889804470	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+s for window 4294967297
+1510889891939	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510889892132	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510889892133	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510889908199	geckodriver	INFO	geckodriver 0.19.1
+1510889908232	geckodriver	INFO	Listening on 127.0.0.1:49745
+1510889910603	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Sicheng\\AppData\\Local\\Temp\\rust_mozprofile.Se4vpQOdYAMZ"
+1510889913476	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510889920972	Marionette	INFO	Listening on port 49751
+1510889921326	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510889921617	Marionette	DEBUG	Register listener.js for window 4294967297
+1510889921702	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510889921922	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510889921923	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510889934375	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://splice.com/sounds/beatmaker"
+1510889940952	Marionette	DEBUG	Received DOM event "pageshow" for "https://splice.com/sounds/beatmaker"
+1510889944170	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.child1/highlighter402
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+e/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510890191779	Marionette	INFO	Listening on port 49860
+1510890192410	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510890192856	Marionette	DEBUG	Register listener.js for window 4294967297
+1510890193015	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510890193325	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510890193328	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510890206981	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://splice.com/sounds/beatmaker"
+1510890212707	Marionette	DEBUG	Received DOM event "pageshow" for "https://splice.com/sounds/beatmaker"
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.child1/highlighter402
+[Parent 5800, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5800, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+UG	Received DOM event "DOMContentLoaded" for "https://splice.com/sounds/beatmaker"
+1510890565984	Marionette	DEBUG	Received DOM event "pageshow" for "https://splice.com/sounds/beatmaker"
+1510890571540	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*************************
+A coding exception was thrown in a Promise resolution callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: toolbox.getCurrentPanel(...).selectStyleSheet is not a function
+Full stack: onLinkClicked/</<@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/rules/rules.js:1707:11
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+*************************
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+rc/chrome/common/ipc_channel_win.cc, line 346
+[Child 7068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510890856219	Marionette	INFO	Listening on port 50116
+1510890856363	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510890856679	Marionette	DEBUG	Register listener.js for window 4294967297
+1510890856852	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510890857104	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510890857105	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510890868886	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://splice.com/sounds/beatmaker"
+1510890876806	Marionette	DEBUG	Received DOM event "pageshow" for "https://splice.com/sounds/beatmaker"
+1510890883645	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode445
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode446
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode628
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode629
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode667
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode668
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8252, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+er.js for window 4294967297
+1510891220119	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510891220432	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510891220433	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510891234583	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://splice.com/sounds/beatmaker"
+1510891242534	Marionette	DEBUG	Received DOM event "pageshow" for "https://splice.com/sounds/beatmaker"
+1510891243744	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510891244264	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510891245473	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510891245846	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510891246150	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.child1/highlighter402
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10084, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1510891559801	geckodriver	INFO	geckodriver 0.19.1
+1510891559817	geckodriver	INFO	Listening on 127.0.0.1:50352
+1510891562123	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Sicheng\\AppData\\Local\\Temp\\rust_mozprofile.xOeGIjuHvSsY"
+1510891564517	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510891570445	Marionette	INFO	Listening on port 50358
+1510891570813	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510891571217	Marionette	DEBUG	Register listener.js for window 4294967297
+1510891571352	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510891571561	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510891571563	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510891583412	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://splice.com/sounds/beatmaker"
+1510891589919	Marionette	DEBUG	Received DOM event "pageshow" for "https://splice.com/sounds/beatmaker"
+1510891591168	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510891592388	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510891594329	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510891597336	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510891598251	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510891599494	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10696, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510891904129	Marionette	INFO	Listening on port 50479
+1510891905205	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510891905639	Marionette	DEBUG	Register listener.js for window 4294967297
+1510891905753	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510891905948	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510891905950	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510891919356	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://splice.com/sounds/beatmaker"
+1510891926921	Marionette	DEBUG	Received DOM event "pageshow" for "https://splice.com/sounds/beatmaker"
+1510891927877	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510891930958	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510891932737	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510891933170	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510891933511	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510891934366	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510891935847	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510891936940	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510891938281	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510891940061	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510891941502	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510891942224	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510891942721	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510891943436	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510891944045	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510891944758	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510891945637	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10992, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1510892090704	geckodriver	INFO	geckodriver 0.19.1
+1510892090720	geckodriver	INFO	Listening on 127.0.0.1:50603
+1510892093079	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Sicheng\\AppData\\Local\\Temp\\rust_mozprofile.Vd4FYz2HSnXY"
+1510892095177	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510892100785	Marionette	INFO	Listening on port 50610
+1510892101254	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510892101684	Marionette	DEBUG	Register listener.js for window 4294967297
+1510892101812	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510892102069	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510892102070	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510892114027	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://splice.com/sounds/beatmaker"
+1510892121002	Marionette	DEBUG	Received DOM event "pageshow" for "https://splice.com/sounds/beatmaker"
+1510892122209	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892123173	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892124447	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892125291	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892127706	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+1510892270735	geckodriver	INFO	geckodriver 0.19.1
+1510892270766	geckodriver	INFO	Listening on 127.0.0.1:50722
+1510892273134	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Sicheng\\AppData\\Local\\Temp\\rust_mozprofile.Y7nSz4rKzTrY"
+1510892275562	Marionette	INFO	Enabled via --marionette
+1510892281948	Marionette	INFO	Listening on port 50728
+1510892282783	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510892283175	Marionette	DEBUG	Register listener.js for window 4294967297
+1510892283358	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510892283511	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510892283512	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510892295666	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://splice.com/sounds/beatmaker"
+1510892302123	Marionette	DEBUG	Received DOM event "pageshow" for "https://splice.com/sounds/beatmaker"
+1510892303675	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892304501	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892306284	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892306703	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892308735	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892310766	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892311791	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892312725	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892314614	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892315726	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892316905	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892318304	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892319228	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892319935	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892320472	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892321025	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892321602	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892322134	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892322887	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892323455	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892324064	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892325215	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892325788	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892326416	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892327126	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892327858	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892328612	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892329367	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892329969	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892330480	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892331082	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892332110	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892332996	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892333666	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8496, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8496, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+th
+[Child 3492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510892659411	Marionette	INFO	Listening on port 50948
+1510892660388	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510892660781	Marionette	DEBUG	Register listener.js for window 4294967297
+1510892660920	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510892661145	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510892661146	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510892674115	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://splice.com/sounds/beatmaker"
+1510892681991	Marionette	DEBUG	Received DOM event "pageshow" for "https://splice.com/sounds/beatmaker"
+1510892683060	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892683695	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892686693	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892689099	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892689772	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892690247	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892691251	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892692297	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892693456	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892694513	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892695591	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892696111	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892696796	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892697606	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6744, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6744, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+mium/src/chrome/common/ipc_channel_win.cc, line 346
+1510892862092	Marionette	INFO	Listening on port 51079
+1510892862781	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510892863278	Marionette	DEBUG	Register listener.js for window 4294967297
+1510892863477	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510892863654	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510892863655	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510892877106	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://splice.com/sounds/beatmaker"
+1510892884087	Marionette	DEBUG	Received DOM event "pageshow" for "https://splice.com/sounds/beatmaker"
+1510892885653	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892886500	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892888186	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892891514	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892892983	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892893969	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892895003	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892896288	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892897488	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892898631	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892899222	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892900043	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892901003	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892901827	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892902907	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892903704	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892904086	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892905363	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510892906297	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7160, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+t 51215
+1510893006643	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510893007019	Marionette	DEBUG	Register listener.js for window 4294967297
+1510893007092	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510893007213	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510893007214	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510893019381	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://splice.com/sounds/beatmaker"
+1510893026659	Marionette	DEBUG	Received DOM event "pageshow" for "https://splice.com/sounds/beatmaker"
+1510893027686	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510893028283	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510893029261	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510893033590	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510893034879	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510893035795	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510893036552	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510893037606	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510893038869	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510893040105	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510893040698	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510893041329	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510893042237	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510893043132	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510893044321	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510893045111	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510893046511	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510893047687	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510893048407	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510893049494	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510893050427	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510893051316	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510893052301	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510893053399	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+cheng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510894558727	Marionette	INFO	Listening on port 51450
+1510894559837	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510894560088	Marionette	DEBUG	Register listener.js for window 4294967297
+1510894560177	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510894560368	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510894560369	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510894575189	geckodriver	INFO	geckodriver 0.19.1
+1510894575221	geckodriver	INFO	Listening on 127.0.0.1:51514
+1510894577549	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Sicheng\\AppData\\Local\\Temp\\rust_mozprofile.U6buLUb5luCf"
+1510894580065	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11460, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510894585762	Marionette	INFO	Listening on port 51520
+1510894586310	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510894586669	Marionette	DEBUG	Register listener.js for window 4294967297
+1510894586821	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510894587032	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510894587034	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510894599146	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://splice.com/sounds/beatmaker"
+1510894606855	Marionette	DEBUG	Received DOM event "pageshow" for "https://splice.com/sounds/beatmaker"
+1510894608066	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510894608940	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510894612070	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510894613907	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510894614732	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510894615823	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510894617423	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510894618602	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510894619652	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510894620574	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510894621292	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510894621893	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510894622606	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510894623289	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510894624137	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510894624816	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510894625228	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510894625686	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510894626317	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510894627487	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510894628165	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510894628949	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510894629725	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510894630531	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510894631074	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510894631523	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510894631959	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510894632375	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510894632765	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
