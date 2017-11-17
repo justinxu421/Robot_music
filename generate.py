@@ -65,7 +65,7 @@ def inputToPage(driver, randomMusic):
             xpathIndex = dataToXpath(i) 
             clickInstrumentButton(driver, xpathIndex)
 
-dataFile = "fakeData.txt"
+dataFile = "new_songs_data.csv"
 dataProbs = getDataProbs(dataFile)
 print(dataProbs, flush = True)
 

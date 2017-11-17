@@ -762,3 +762,63 @@ Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openv
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1510910845892	geckodriver	INFO	geckodriver 0.19.1
+1510910845924	geckodriver	INFO	Listening on 127.0.0.1:52232
+1510910848361	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Sicheng\\AppData\\Local\\Temp\\rust_mozprofile.maHxPcUIgisu"
+1510910850839	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 2720, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510910857256	Marionette	INFO	Listening on port 52238
+1510910858006	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510910858366	Marionette	DEBUG	Register listener.js for window 4294967297
+1510910858552	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510910858733	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510910858734	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510910871133	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://splice.com/sounds/beatmaker"
+1510910878360	Marionette	DEBUG	Received DOM event "pageshow" for "https://splice.com/sounds/beatmaker"
+1510910879323	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510910880278	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510910881885	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510910884895	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510910886058	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510910887092	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510910888193	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510910889455	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510910890526	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510910891469	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510910892031	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510910892589	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510910893272	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510910893887	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510910894823	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510910895369	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510910895736	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510910896237	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510910896808	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510910897519	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510910898521	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510910899231	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510910899898	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510910900929	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510910901912	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510910902456	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510910902981	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510910903458	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510910903900	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510910904330	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510910904731	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510910905296	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510910905709	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510910906469	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510910906929	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510910907353	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510910907778	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510910908174	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510910908580	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510910908964	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510910909546	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510910909910	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510910910296	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
