@@ -19,7 +19,7 @@ def getDataProbs(dataFile):
         if numDataPoints == 0: continue
         for i in range(len(line)): 
             if line[i].isdigit():
-                dataSum[i // 3] += int(line[i]) # Change 3 to whatever you need to (I assumed the data looked like 1, 0, 1, 1... )
+                dataSum[i // 2] += int(line[i]) # Change to adjust to data
     fp.close()
 
     dataProbs = [x / (1.0 * numDataPoints) for x in dataSum]
