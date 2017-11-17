@@ -7,8 +7,9 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 
+# Get the probability of each square from the data file 
 def getDataProbs(dataFile):
-    numDataFeatures = 9 # Change 9 to 16 * 8 with full file
+    numDataFeatures = 8 * 32 
     numDataPoints = -1
     dataSum = [0] * numDataFeatures
 
@@ -18,16 +19,18 @@ def getDataProbs(dataFile):
         if numDataPoints == 0: continue
         for i in range(len(line)): 
             if line[i].isdigit():
-                dataSum[i // 3] += int(line[i]) # Change 3 to whatever you need to 
+                dataSum[i // 3] += int(line[i]) # Change 3 to whatever you need to (I assumed the data looked like 1, 0, 1, 1... )
     fp.close()
 
     dataProbs = [x / (1.0 * numDataPoints) for x in dataSum]
     return dataProbs
 
+# Generate a set of on/off configurations given the probabilities of the squares
 def generate(dataProbs):
     result = [ 1 if rand.random() < prob else 0 for prob in dataProbs ]
     return result
 
+# Start up the page, close the annoying things, then turn all existing notes off 
 def startPage():
     driver = webdriver.Firefox()
     driver.get("https://splice.com/sounds/beatmaker")
@@ -42,23 +45,25 @@ def startPage():
 
     return driver
 
+# Convert from the data file indexing to the xpath indexing 
 def dataToXpath(index):
     col = index % 32
     row = index // 32 
     return 8 * col + row + 1
 
+# Click the specififed button (xpath indexed)
 def clickInstrumentButton(driver, index):
     request = "(//div[@class='active-overlay'])[" + str(index) + "]"
     print(request, flush = True)
     button = driver.find_element(By.XPATH, request)
     button.click()
 
+# Turn the buttons that were specified in the configuration on
 def inputToPage(driver, randomMusic):
     for i in range(0, len(randomMusic)):
         if randomMusic[i] == 1:
             xpathIndex = dataToXpath(i) 
             clickInstrumentButton(driver, xpathIndex)
-
 
 dataFile = "fakeData.txt"
 dataProbs = getDataProbs(dataFile)
@@ -66,6 +71,6 @@ print(dataProbs, flush = True)
 
 randomMusic = generate(dataProbs)
 print(randomMusic, flush = True)
-driver = startPage()
 
+driver = startPage()
 inputToPage(driver, randomMusic)
