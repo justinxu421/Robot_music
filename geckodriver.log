@@ -831,3 +831,79 @@ Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openv
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1510992348746	geckodriver	INFO	geckodriver 0.19.1
+1510992348762	geckodriver	INFO	Listening on 127.0.0.1:55806
+1510992351230	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Sicheng\\AppData\\Local\\Temp\\rust_mozprofile.njFgm6pYiLSJ"
+1510992353051	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510992356376	Marionette	INFO	Listening on port 55815
+1510992356736	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510992356900	Marionette	DEBUG	Register listener.js for window 4294967297
+1510992356951	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510992357135	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510992357136	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510992365158	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://splice.com/sounds/beatmaker"
+1510992369453	Marionette	DEBUG	Received DOM event "pageshow" for "https://splice.com/sounds/beatmaker"
+1510992370093	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992371810	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992372689	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992373012	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992373391	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992374068	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992374725	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992375352	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992376183	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992376705	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992377122	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992377501	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992377925	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992378383	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992378877	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992379231	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992379532	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992379878	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992380263	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992380624	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992381010	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992381380	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992381764	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992382448	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992382939	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992383296	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992383621	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992383932	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992384319	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992384598	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992384908	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992385203	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992385591	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992385965	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992386268	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992386817	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992387162	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992387499	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992387826	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992388307	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992388663	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992388966	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992389381	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992389702	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992390121	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992390431	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992390750	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992391286	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992391586	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992392121	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510992392493	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openvrpaths.vrpath
