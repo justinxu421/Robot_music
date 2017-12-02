@@ -831,3 +831,1112 @@ Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openv
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1512117663932	geckodriver	INFO	geckodriver 0.19.1
+1512117663987	geckodriver	INFO	Listening on 127.0.0.1:61359
+1512117746446	geckodriver	INFO	geckodriver 0.19.1
+1512117746453	geckodriver	INFO	Listening on 127.0.0.1:61367
+1512118169461	geckodriver	INFO	geckodriver 0.19.1
+1512118169485	geckodriver	INFO	Listening on 127.0.0.1:61475
+1512119161293	geckodriver	INFO	geckodriver 0.19.1
+1512119161308	geckodriver	INFO	Listening on 127.0.0.1:62101
+1512119531926	geckodriver	INFO	geckodriver 0.19.1
+1512119531942	geckodriver	INFO	Listening on 127.0.0.1:62260
+1512119536562	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Justin\\AppData\\Local\\Temp\\rust_mozprofile.kZn5rZIUj7hv"
+1512119537073	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1512119538028	Marionette	INFO	Enabled via --marionette
+[Child 7476] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7476] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512119540555	Marionette	INFO	Listening on port 62266
+1512119540732	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512119540817	Marionette	DEBUG	Register listener.js for window 4294967297
+1512119540955	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512119541261	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512119541262	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512119549036	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://splice.com/sounds/beatmaker"
+1512119553215	Marionette	DEBUG	Received DOM event "pageshow" for "https://splice.com/sounds/beatmaker"
+1512119554974	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119556489	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119557130	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119558263	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119558716	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119559619	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119560488	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119561024	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119561510	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119561926	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119562300	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119562710	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119563212	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119564028	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119564665	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119565178	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119565496	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119565977	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119566461	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119566932	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119567409	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119567919	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119568286	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119568744	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119569202	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119569599	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119570004	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119570366	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119570992	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119571419	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119571865	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119572217	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119572675	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119572981	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119573328	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119573642	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119573927	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119574222	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119574514	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119574796	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119575081	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119575360	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119575705	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119576038	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119576323	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119576697	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119576989	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119577282	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119577968	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119578268	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119578584	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119578998	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119579292	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119579670	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119579989	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512119580271	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 7232] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1512177500069	geckodriver	INFO	geckodriver 0.19.1
+1512177500093	geckodriver	INFO	Listening on 127.0.0.1:64996
+1512177502450	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Justin\\AppData\\Local\\Temp\\rust_mozprofile.o9IlbxLb0jg0"
+1512177949830	geckodriver	INFO	geckodriver 0.19.1
+1512177949850	geckodriver	INFO	Listening on 127.0.0.1:65085
+1512177952036	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Justin\\AppData\\Local\\Temp\\rust_mozprofile.DQGkTu6JywDa"
+1512177958089	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Justin\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512177960590	Marionette	INFO	Listening on port 65091
+1512177961516	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512177961624	Marionette	DEBUG	Register listener.js for window 4294967297
+1512177961681	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512177961760	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512177961760	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512177967768	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://splice.com/sounds/beatmaker"
+1512177970160	Marionette	DEBUG	Received DOM event "pageshow" for "https://splice.com/sounds/beatmaker"
+1512177970778	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512177972150	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512177972659	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512177973112	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512177973977	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512177974628	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512177975038	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512177975725	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512177976072	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512177976482	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512177976840	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512177977234	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512177977589	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512177977978	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512177978320	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512177978623	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512177978900	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512177979302	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512177979805	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512177980145	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512177980606	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512177980973	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512177981328	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512177981783	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\Justin\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 16320, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 16320, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Justin\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1512178132313	geckodriver	INFO	geckodriver 0.19.1
+1512178132326	geckodriver	INFO	Listening on 127.0.0.1:65262
+1512178134454	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Justin\\AppData\\Local\\Temp\\rust_mozprofile.RYN8PPs9JwIH"
+1512178135905	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Justin\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512178138036	Marionette	INFO	Listening on port 65268
+1512178138087	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512178138208	Marionette	DEBUG	Register listener.js for window 4294967297
+1512178138265	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512178138360	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512178138360	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512178142702	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://splice.com/sounds/beatmaker"
+1512178145278	Marionette	DEBUG	Received DOM event "pageshow" for "https://splice.com/sounds/beatmaker"
+1512178145686	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178146189	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178146556	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178147462	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178148249	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178148849	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178149295	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178149629	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178149977	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178150582	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178150995	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178151459	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178151866	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178152345	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178152706	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178153107	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178153391	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178153695	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178154074	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178154460	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178154822	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178155168	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178155672	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178156043	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178156456	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178156848	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178157294	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178157633	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178157941	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178158281	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178158588	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178158886	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178159216	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178159535	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178159825	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178160132	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178160446	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178160750	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178161065	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178161328	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178161606	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178161987	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178162279	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178162634	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178162923	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178163261	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178163619	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178164061	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178164384	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178164719	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178165009	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178165325	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178165654	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178165963	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178166256	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178166565	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178166844	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178167147	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178167452	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178167755	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178168054	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178168343	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178168620	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178168898	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178169173	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178169455	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178169730	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178170005	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178170320	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178170644	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178170936	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178171237	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178171637	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178171910	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178172218	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178172542	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178172841	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178173123	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178173433	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178173727	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178174017	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178174317	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178174619	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178174876	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178175182	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178175528	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178175828	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178176115	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178176390	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178176650	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178176919	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178177270	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178177589	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178177867	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178178145	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178178450	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178178741	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178179034	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178179322	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178179621	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178179903	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178180164	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178180525	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178180785	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178181064	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178181350	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178181632	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178181911	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178182207	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178182515	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178182786	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178183096	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178183386	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178183683	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178183961	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178184250	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178184548	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178184841	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178185129	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178185504	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178185796	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178186079	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178186375	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178186661	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178186922	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178187218	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178187514	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178187809	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178188096	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178188373	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178188639	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178188939	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178189220	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178189501	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178189772	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178190067	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178190356	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178190653	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178190945	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178191240	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178191514	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178191789	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178192063	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178192479	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178192752	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178193230	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178193479	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178193787	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178194067	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178194357	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178194607	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178194906	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178195183	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178195474	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178195766	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178196050	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178196348	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178196616	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178196902	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178197194	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178197505	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178197792	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178198098	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178198389	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178198686	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178198977	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178199258	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178199541	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178199833	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178200111	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178200697	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178200984	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178201419	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178201680	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178201986	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178202263	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178202556	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178202844	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178203125	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178203415	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178203676	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178203969	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178204267	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178204559	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178204852	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178205129	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178205435	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178205714	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178206021	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178206308	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178206594	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178206906	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178207198	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178207461	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178207740	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178208040	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178208331	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178208717	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178209002	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178209288	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178209593	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178209939	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178210242	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178210546	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178210854	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178211148	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178211449	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178211725	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178212002	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178212311	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178212587	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178212880	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178213170	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178213459	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178213761	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178214052	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178214341	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\Justin\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 16300, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Justin\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1512178277733	geckodriver	INFO	geckodriver 0.19.1
+1512178277749	geckodriver	INFO	Listening on 127.0.0.1:53985
+1512178279883	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Justin\\AppData\\Local\\Temp\\rust_mozprofile.nBiz6xRTxR3H"
+1512178281934	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Justin\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512178283900	Marionette	INFO	Listening on port 53991
+1512178284013	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512178284131	Marionette	DEBUG	Register listener.js for window 4294967297
+1512178284163	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512178284241	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512178284241	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512178288608	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://splice.com/sounds/beatmaker"
+1512178291161	Marionette	DEBUG	Received DOM event "pageshow" for "https://splice.com/sounds/beatmaker"
+1512178291669	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178292085	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178292397	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178293521	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178293914	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178294439	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178294868	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178295281	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178295657	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178295966	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178296477	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178296893	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178297349	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178297787	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178298202	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178298550	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178298849	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178299218	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178299630	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178299992	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178300333	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178300668	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178301074	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178301563	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178301953	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178302371	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178302645	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178303068	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178303409	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178303714	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178304062	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178304361	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178304653	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178304969	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178305375	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178305669	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178305970	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178306272	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178306558	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178306842	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178307128	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178307487	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178307794	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178308093	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178308383	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178308658	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178308984	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178309278	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178309584	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178309909	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178310206	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178310518	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178310840	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178311102	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178311396	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178311660	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178312093	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178312347	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178312882	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178313166	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178313543	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178313827	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\Justin\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 16116, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16116, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 1512178399118	Marionette	INFO	Listening on port 50936
+1512178399509	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512178399702	Marionette	DEBUG	Register listener.js for window 4294967297
+1512178399765	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512178399851	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512178399852	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512178404040	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://splice.com/sounds/beatmaker"
+1512178408327	Marionette	DEBUG	Received DOM event "pageshow" for "https://splice.com/sounds/beatmaker"
+1512178408919	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178409413	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178409675	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178409959	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178410297	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178410757	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178411176	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178411559	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178411911	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178412218	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178412599	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178413046	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178413427	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178413913	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178414322	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178414745	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178415063	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178415679	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178416087	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178416485	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178416849	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178417208	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178417599	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178418117	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178418439	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178418748	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178419061	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178419394	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178419708	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178420124	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178420394	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178420714	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178421008	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178421280	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178421750	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178422177	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178422469	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178422785	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178423146	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178423464	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178423862	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178424168	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178424460	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178424813	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178425128	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178425420	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178425721	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178426129	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178426445	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178426716	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178427020	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178427297	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178427582	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178427910	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178428284	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178428587	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178428879	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178429179	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178429690	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178429968	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178430261	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178430630	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178430903	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\Justin\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+915	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Justin\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11628, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Justin\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512178722605	Marionette	INFO	Listening on port 56108
+1512178723178	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512178723310	Marionette	DEBUG	Register listener.js for window 4294967297
+1512178723340	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512178723412	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512178723412	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512178728106	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://splice.com/sounds/beatmaker"
+1512178732003	Marionette	DEBUG	Received DOM event "pageshow" for "https://splice.com/sounds/beatmaker"
+1512178732439	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178733375	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178734026	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178734273	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178734685	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178735319	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178735947	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178736299	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178736720	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178737086	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178737501	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178737852	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178738239	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178738693	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178739099	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178739485	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178739837	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178740262	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178740689	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178741113	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178741636	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178742004	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178742386	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178742842	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178743207	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178743552	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178743820	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178744139	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178744438	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178744840	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178745117	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178745503	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178745811	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178746094	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178746399	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178746685	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178747056	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178747338	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178747647	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178747994	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178748284	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178748582	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178748875	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178749168	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178749555	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178750032	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178750513	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178750841	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178751301	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 11628, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Justin\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Justin\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11628, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1512178868591	geckodriver	INFO	geckodriver 0.19.1
+1512178868604	geckodriver	INFO	Listening on 127.0.0.1:56325
+1512178870799	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Justin\\AppData\\Local\\Temp\\rust_mozprofile.ZGEUVCzjBqss"
+1512178872072	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Justin\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512178874326	Marionette	INFO	Listening on port 56331
+1512178874445	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512178874598	Marionette	DEBUG	Register listener.js for window 4294967297
+1512178874657	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512178874724	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512178874724	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512178879423	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://splice.com/sounds/beatmaker"
+1512178882336	Marionette	DEBUG	Received DOM event "pageshow" for "https://splice.com/sounds/beatmaker"
+1512178882834	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178883157	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178883906	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178884549	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178884861	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178885361	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178885778	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178886175	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178886508	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178886853	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178887264	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178887706	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178888084	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178888514	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178888843	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178889189	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178889506	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178889989	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178890457	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178890850	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178891298	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178891680	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178892063	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178892568	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178892887	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178893225	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178893569	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178893863	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178894289	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178894597	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178894926	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178895281	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178895588	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178895929	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178896406	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178896713	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178897052	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178897458	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178897736	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178898015	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178898278	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178898556	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178898825	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178899121	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178899406	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178899708	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178900011	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178900305	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178900685	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178900955	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178901259	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178901552	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178901918	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178902200	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178902517	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178902814	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178903074	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178903372	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178903749	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178904071	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178904358	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178904638	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178904920	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178905404	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178905673	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178905980	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178906333	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178906636	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178906941	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512178907200	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\Justin\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 3880, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3880, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
