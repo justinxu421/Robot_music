@@ -1,4 +1,3 @@
-
 import numpy as np
 import random as rand
 import time 
@@ -7,6 +6,10 @@ import util
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
+
+'''
+    File which handles all the overhead of automatically clicking the elements in the browser
+'''
 
 # Get the probability of each square from the data file 
 '''def getDataProbs(dataFile):
@@ -35,9 +38,8 @@ def startPage():
         button = driver.find_element(By.XPATH, "//i[@class='fa fa-close']")
         button.click()
     
-    turnedOn = [1, 6, 8, 19, 28, 32, 35, 44, 49, 61, 66, 97, 129, 147, 156, 163, 172, 177, 189, 194]
-    for i in turnedOn:
-        clickInstrumentButton(driver, i)
+    button = driver.find_element(By.XPATH, "//i[@class='fa fa-times-circle']")
+    button.click()
 
     return driver
 
@@ -61,12 +63,8 @@ def inputToPage(driver, randomMusic):
             xpathIndex = dataToXpath(i) 
             clickInstrumentButton(driver, xpathIndex)
 
-dataFile = "new_songs_data(incl. twitter).csv"
-conditionalProbs = util.getConditionalProbs(dataFile)
-print(conditionalProbs, flush = True)
-
-randomMusic = util.generate(conditionalProbs)
-print(randomMusic, flush = True)
+#get the assignments
+randomMusic = util.makeAssignment()
 
 driver = startPage()
 inputToPage(driver, randomMusic)
