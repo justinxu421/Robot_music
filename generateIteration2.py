@@ -11,24 +11,6 @@ from selenium.webdriver.common.by import By
     File which handles all the overhead of automatically clicking the elements in the browser
 '''
 
-# Get the probability of each square from the data file 
-'''def getDataProbs(dataFile):
-    numDataFeatures = 8 * 32 
-    numDataPoints = -1
-    dataSum = [0] * numDataFeatures
-
-    fp = open(dataFile,'r')
-    for _,line in enumerate(fp):
-        numDataPoints += 1
-        if numDataPoints == 0: continue
-        for i in range(len(line)): 
-            if line[i].isdigit():
-                dataSum[i // 2] += int(line[i]) # Change to adjust to data
-    fp.close()
-
-    dataProbs = [x / (1.0 * numDataPoints) for x in dataSum]
-    return dataProbs'''
-
 # Start up the page, close the annoying things, then turn all existing notes off 
 def startPage():
     driver = webdriver.Firefox()
