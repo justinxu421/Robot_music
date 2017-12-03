@@ -97,7 +97,7 @@ for i in range(0, 32 * 8):
 	draw.rectangle(getCoords(i), fill = getColors(dataProbs[i]))
 
 # Add text 
-fnt = ImageFont.truetype('open-sans\OpenSans-Regular.ttf', 20)
+fnt = ImageFont.truetype('fonts/open-sans/OpenSans-Regular.ttf', 20)
 draw.text((refLeftMargin + 5, imageSize[1] - 35), "p = 0", font=fnt, fill=(255,255,255))
 draw.text((imageSize[0] - 80, imageSize[1] - 35), "p = 1", font=fnt, fill=(255,255,255))
 draw.text((leftMargin - 60, topMargin - 50), "Beat", font=fnt, fill=(255,255,255))
@@ -107,4 +107,4 @@ for i in range(0, 8):
 
 del draw
 
-im.save("images/probabilitiesVisual2.png")
+im.save("images/probabilitiesVisual0.png")
