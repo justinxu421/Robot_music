@@ -154,4 +154,5 @@ def makeAssignment():
     #create a random music assignment
     print("assignment is", randomMusic, flush = True)
     return randomMusic
+
 makeAssignment()

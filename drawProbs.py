@@ -71,7 +71,7 @@ im = Image.new("RGB", imageSize, bgColor)
 draw = ImageDraw.Draw(im)
 
 # Paste in the icons
-icons = Image.open("icons.png")
+icons = Image.open("images/icons.png")
 icons.thumbnail((leftMargin, rows * squareSize))
 im.paste(icons, (leftMargin - icons.size[0], topMargin))
 
@@ -107,4 +107,4 @@ for i in range(0, 8):
 
 del draw
 
-im.save("image.png")
+im.save("images/probabilitiesVisual2.png")
