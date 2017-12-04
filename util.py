@@ -172,7 +172,7 @@ def makeAssignment():
 
     randomMusic = generate(conditionalProbs)
     #create a random music assignment
-    print("assignment is", randomMusic, flush = True)
+    print("assignment is", randomMusic)
     return randomMusic
 
 # Cut makeAssignment() off and return the conditional probabilities
@@ -204,3 +204,5 @@ def getConditionalProbsFromScratch(cluster):
     print("number of files in cluster:", len(filesInCluster))
 
     return getConditionalProbs(filesInCluster)
+
+makeAssignment()
