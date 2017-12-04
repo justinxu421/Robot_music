@@ -14,7 +14,8 @@ rightMargin = 20
 
 squareSize = 40
 
-bgColor = (35, 35, 40)
+bgColor = (70, 70, 70)
+txtColor = (214, 214, 214)
 
 #FUNCTIONS#
 
@@ -32,15 +33,17 @@ def getRefCoords(i):
 		refLeftMargin + (col+1) * squareSize * 7/8, refTopMargin + (row+1) * squareSize]
 	return coords
 
-## Colors
-# 1.1, .2, .9
-# 1.8, .2, 3.2
-# 1.8, .8, 3.2
 def getColors(prob):
-	color = floor(prob * 256)
-	colorR = int(floor(color * 1.8))
-	colorG = int(floor(color * .8))
-	colorB = int(floor(color * 3.2))
+
+	#color = (140, 21, 21) #cardinal
+	#color = (83,40,79) #purple
+	color = (460.8, 204.8, 819.2) #initial gradient (amp 1)
+	amp = (1, 1, 1)
+	#amp = (10, 10, 10)
+	colorR = int(floor(prob * color[0] * amp[0]))
+	colorG = int(floor(prob * color[1] * amp[0]))
+	colorB = int(floor(prob * color[2] * amp[0]))
+
 	return (colorR, colorG, colorB)
 
 def getDataProbs(dataFile):
@@ -67,7 +70,7 @@ imageSize = [leftMargin + rightMargin + cols * squareSize // 2,
 
 imageBounds = [0, 0] + imageSize 
 
-im = Image.new("RGB", imageSize, bgColor)
+im = Image.new("RGBA", imageSize, (0, 0, 0, 0))
 draw = ImageDraw.Draw(im)
 
 # Paste in the icons
@@ -88,23 +91,23 @@ for i in range(0, 8):
 			topMargin - 20, 
 			leftMargin + cols * squareSize / 2 * (i+1) / 8, 
 			topMargin + 20]
-	draw.arc(arcXY, 200, 340, fill=(255, 255, 255))
+	draw.arc(arcXY, 200, 340, fill=txtColor)
 
 # Draw in the data probabilities
-dataFile = "new_songs_data.csv"
+dataFile = "new_songs_data(incl. twitter).csv"
 dataProbs = getDataProbs(dataFile)
 for i in range(0, 32 * 8):
 	draw.rectangle(getCoords(i), fill = getColors(dataProbs[i]))
 
 # Add text 
 fnt = ImageFont.truetype('fonts/open-sans/OpenSans-Regular.ttf', 20)
-draw.text((refLeftMargin + 5, imageSize[1] - 35), "p = 0", font=fnt, fill=(255,255,255))
-draw.text((imageSize[0] - 80, imageSize[1] - 35), "p = 1", font=fnt, fill=(255,255,255))
-draw.text((leftMargin - 60, topMargin - 50), "Beat", font=fnt, fill=(255,255,255))
+draw.text((refLeftMargin + 5, imageSize[1] - 35), "p = 0", font=fnt, fill=txtColor)
+draw.text((imageSize[0] - 80, imageSize[1] - 35), "p = 1", font=fnt, fill=txtColor)
+draw.text((leftMargin - 60, topMargin - 50), "Beat", font=fnt, fill=txtColor)
 for i in range(0, 8):
 	textCoords = [leftMargin + cols * squareSize / 2 * i / 8, topMargin - 50]
-	draw.text(textCoords, str(i+1), font=fnt, fill=(255,255,255))
+	draw.text(textCoords, str(i+1), font=fnt, fill=txtColor)
 
 del draw
 
-im.save("images/probabilitiesVisual0.png")
+im.save("images/mleFigure_test.png")
