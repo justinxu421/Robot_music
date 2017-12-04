@@ -14,7 +14,7 @@ NUM_DATA_FEATURES = NUM_BEATS * NUM_INSTRUMENTS #total features per line
 ''' 
     Outdated MLE algorithm
 '''
-def getDataProbs(dataFile):
+def getMLEProbs(dataFile):
     numDataFeatures = 8 * 32 
     numDataPoints = -1
     dataSum = [0] * numDataFeatures
@@ -52,7 +52,7 @@ def createTuple(i,line):
     if i%NUM_BEATS != 0: #if not first entry in row
         conditionList.append(line[i-1])
     index = i
-    if index > NUM_BEATS:
+    if index >= NUM_BEATS:
         index -= NUM_BEATS
         conditionList.append(line[index])
     return tuple(conditionList)
@@ -175,4 +175,32 @@ def makeAssignment():
     print("assignment is", randomMusic, flush = True)
     return randomMusic
 
-makeAssignment()
+# Cut makeAssignment() off and return the conditional probabilities
+def getConditionalProbsFromScratch(cluster):
+    dataFile = "new_songs_data(incl. twitter).csv"
+    files = datafileToDict(dataFile) #convert to map
+    fileCounts = getSongNoteCount(files) #get map of counts
+    assignments,centroids = kMeans(fileCounts,3) #run k means to find assignments
+
+    #print("centroid values:", centroids)
+    maxIndex = centroids.index(max(centroids)) 
+    minIndex = centroids.index(min(centroids))
+    middleIndex = 3 - maxIndex - minIndex #works since sum of all 3 is 0+1+2 = 3
+
+    desiredIndex = 0
+    if cluster == "min":
+        desiredIndex = minIndex 
+    elif cluster == "max":
+        desiredIndex = maxIndex
+    elif cluster == "middle": 
+        desiredIndex = middleIndex
+    else: 
+        desiredIndex = -1 #take all of them! 
+
+    filesInCluster = dict() #files in appropriate cluster
+    for i in range(len(assignments)):
+        if assignments[i] == desiredIndex or desiredIndex == -1: 
+            filesInCluster[i] = files[i]
+    #print("number of files in cluster:", len(filesInCluster))
+
+    return getConditionalProbs(filesInCluster)
