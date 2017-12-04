@@ -146,7 +146,7 @@ def kMeans(fileCounts,k):
             else:
                 centroids[centroid] = float(clusterSumAndCounts[centroid][0]) / clusterSumAndCounts[centroid][1]
                 #update centroid
-    print("count is", count)
+    #print("count is", count)
     return assignments, centroids
 
 #function that probabilistically creates an assignment
@@ -201,6 +201,6 @@ def getConditionalProbsFromScratch(cluster):
     for i in range(len(assignments)):
         if assignments[i] == desiredIndex or desiredIndex == -1: 
             filesInCluster[i] = files[i]
-    #print("number of files in cluster:", len(filesInCluster))
+    print("number of files in cluster:", len(filesInCluster))
 
     return getConditionalProbs(filesInCluster)
