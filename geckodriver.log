@@ -4367,3 +4367,7 @@ Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openv
 1512340299167	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
 1512340300740	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
 1512340302536	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 1200, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
