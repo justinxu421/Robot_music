@@ -4371,3 +4371,375 @@ Unable to read VR Path Registry from C:\Users\Sicheng\AppData\Local\openvr\openv
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1513229805368	geckodriver	INFO	geckodriver 0.19.1
+1513229805383	geckodriver	INFO	Listening on 127.0.0.1:52317
+1513229812529	geckodriver	INFO	geckodriver 0.19.1
+1513229812535	geckodriver	INFO	Listening on 127.0.0.1:52323
+1513229822985	geckodriver	INFO	geckodriver 0.19.1
+1513229822991	geckodriver	INFO	Listening on 127.0.0.1:52329
+1513229888504	geckodriver	INFO	geckodriver 0.19.1
+1513229888511	geckodriver	INFO	Listening on 127.0.0.1:52422
+1513229890608	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JUSTIN~1\\AppData\\Local\\Temp\\rust_mozprofile.jdoHHkgm8Vok"
+1513229891731	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Justin Xu\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10668, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Justin Xu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513229893082	Marionette	INFO	Listening on port 52428
+1513229893756	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513229893821	Marionette	DEBUG	Register listener.js for window 4294967297
+1513229893838	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513229894023	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513229894024	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513229897332	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://splice.com/sounds/beatmaker"
+1513229899224	Marionette	DEBUG	Received DOM event "pageshow" for "https://splice.com/sounds/beatmaker"
+1513229899546	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229899889	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229900704	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229900946	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229901229	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229901528	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229901777	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229902036	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229902311	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229902570	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229902806	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229903058	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229903342	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229903586	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229903828	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229904143	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229904374	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229904634	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229904891	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229905129	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229905522	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229905776	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229906031	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229906280	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229906574	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229906836	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229907166	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229907411	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229907657	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229907911	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229908150	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229908394	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229908634	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229908922	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229909170	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229909487	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229909730	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229909980	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229910225	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229910461	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229910702	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229911022	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229911268	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229911561	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229911796	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229912035	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229912269	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 10668, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10668, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10668, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Justin Xu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1513229955198	geckodriver	INFO	geckodriver 0.19.1
+1513229955204	geckodriver	INFO	Listening on 127.0.0.1:52630
+1513229957294	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JUSTIN~1\\AppData\\Local\\Temp\\rust_mozprofile.GCAHj3IQfDzE"
+1513229957905	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Justin Xu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513229959265	Marionette	INFO	Listening on port 52636
+1513229959349	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513229959419	Marionette	DEBUG	Register listener.js for window 4294967297
+1513229959450	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513229959533	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513229959533	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513229962139	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://splice.com/sounds/beatmaker"
+1513229965247	Marionette	DEBUG	Received DOM event "pageshow" for "https://splice.com/sounds/beatmaker"
+1513229965703	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229966014	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229966276	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229966512	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229966770	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229967022	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229967309	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229967571	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229967921	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229968190	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229968464	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229968787	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229969032	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229969288	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229969545	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229969803	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229970049	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229970287	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229970555	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229970807	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229971095	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229971365	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229971633	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229971881	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229972152	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229972475	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229972708	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229973048	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229973345	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229973587	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229973873	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229974104	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513229974368	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\Justin Xu\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 5132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Justin Xu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1513230099066	geckodriver	INFO	geckodriver 0.19.1
+1513230099073	geckodriver	INFO	Listening on 127.0.0.1:52801
+1513230101167	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JUSTIN~1\\AppData\\Local\\Temp\\rust_mozprofile.AKhOdGlXc9cZ"
+1513230102308	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Justin Xu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513230103616	Marionette	INFO	Listening on port 52807
+1513230104278	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513230104333	Marionette	DEBUG	Register listener.js for window 4294967297
+1513230104354	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513230104417	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513230104417	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513230107607	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://splice.com/sounds/beatmaker"

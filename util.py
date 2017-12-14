@@ -154,16 +154,18 @@ def makeAssignment():
     dataFile = "new_songs_data(incl. twitter).csv"
     files = datafileToDict(dataFile) #convert to map
     fileCounts = getSongNoteCount(files) #get map of counts
-    assignments,centroids = kMeans(fileCounts,3) #run k means to find assignments
+    assignments,centroids = kMeans(fileCounts,5) #run k means to find assignments
 
     print("centroid values:", centroids)
-    maxIndex = centroids.index(max(centroids)) 
-    minIndex = centroids.index(min(centroids))
-    middleIndex = 3 - maxIndex - minIndex #works since sum of all 3 is 0+1+2 = 3
+    centroidIndices = np.argsort(centroids)
+    print(centroids)
+    print(centroidIndices)
+    index = centroidIndices[2] #this parameter can be adjusted.
+    #0 correponds to the minimum index, and -1 corresponds to the maximum
 
     filesInCluster = dict() #files in appropriate cluster
     for i in range(len(assignments)):
-        if assignments[i] == minIndex: #this parameter can be adjusted
+        if assignments[i] == index: 
             filesInCluster[i] = files[i]
     print("number of files in cluster:", len(filesInCluster))
 
@@ -173,6 +175,24 @@ def makeAssignment():
     randomMusic = generate(conditionalProbs)
     #create a random music assignment
     print("assignment is", randomMusic)
+
+    maxSimilarity = 0
+    for index, file in filesInCluster.items():
+        file = list(map(int,file))
+        ones = 0
+        count = 0
+        for i in range(NUM_DATA_FEATURES):
+            if(file[i] == 1):
+                ones += 1
+                if(randomMusic[i] == 1):
+                    count += 1
+        if(ones > 0):
+            similarity = float(count)/ones
+        if(similarity > maxSimilarity):
+            maxSimilarity = similarity
+    print(maxSimilarity)
+    #The similarity metric (# same 1's over total number 1s in each file)
+
     return randomMusic
 
 # Cut makeAssignment() off and return the conditional probabilities
@@ -205,4 +225,4 @@ def getConditionalProbsFromScratch(cluster):
 
     return getConditionalProbs(filesInCluster)
 
-makeAssignment()
+assignment = makeAssignment()
