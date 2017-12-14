@@ -28,7 +28,7 @@ inputFile.close()
 
 #writes to the file an array of instruments and whether the beats are on
 #for each song
-with open("new_songs_data.csv", 'w') as archive_file:
+with open("new_songs_data(incl.twitter).csv", 'w') as archive_file:
     f = csv.writer(archive_file)
 
     listInstr = ["Kick Drum", "Snare", "Closed Hihat", "Open Hihat", "Tom", \
