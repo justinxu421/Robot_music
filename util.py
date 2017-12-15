@@ -52,7 +52,7 @@ def createTuple(i,line):
     if i%NUM_BEATS != 0: #if not first entry in row
         conditionList.append(line[i-1])
     index = i
-    if index >= NUM_BEATS:
+    while index >= NUM_BEATS:
         index -= NUM_BEATS
         conditionList.append(line[index])
     return tuple(conditionList)
@@ -154,7 +154,7 @@ def makeAssignment():
     dataFile = "new_songs_data(incl. twitter).csv"
     files = datafileToDict(dataFile) #convert to map
     fileCounts = getSongNoteCount(files) #get map of counts
-    assignments,centroids = kMeans(fileCounts,5) #run k means to find assignments
+    assignments,centroids = kMeans(fileCounts,3) #run k means to find assignments
 
     print("centroid values:", centroids)
     centroidIndices = np.argsort(centroids)
@@ -177,20 +177,29 @@ def makeAssignment():
     print("assignment is", randomMusic)
 
     maxSimilarity = 0
+    maxSimlilaritiesOnes = 0
     for index, file in filesInCluster.items():
         file = list(map(int,file))
         ones = 0
         count = 0
+        countOnes = 0
         for i in range(NUM_DATA_FEATURES):
             if(file[i] == 1):
                 ones += 1
                 if(randomMusic[i] == 1):
-                    count += 1
+                    countOnes += 1
+            if(randomMusic[i] == file[i]):
+                count += 1
         if(ones > 0):
-            similarity = float(count)/ones
+            similarityOnes = float(countOnes)/ones
+            similarity = float(count)/NUM_DATA_FEATURES
         if(similarity > maxSimilarity):
             maxSimilarity = similarity
-    print(maxSimilarity)
+        if(similarityOnes > maxSimlilaritiesOnes):
+            maxSimlilaritiesOnes = similarityOnes
+    print("similarity is: ", maxSimilarity)
+    print("Ones similarity is:", maxSimlilaritiesOnes)
+    print(countOnes,ones)
     #The similarity metric (# same 1's over total number 1s in each file)
 
     return randomMusic
