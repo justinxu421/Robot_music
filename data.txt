@@ -1,0 +1,8 @@
+Input data to our algorithm:
+Over 700 records of beats. 
+
+We scraped the beats from a website called the beatmaker, in which there are 8 instruments and 32 “nodes”, in which each node can be turned on/off. Turning a node on means that there will be a sound by that specific instrument at that point in time. Hence, to store this data, for each record, we construct an array of 0s and 1s of length (32 nodes * 8 instruments). Hence, we have over 700 of such arrays.
+
+We used twitterscraper (https://github.com/taspinar/twitterscraper) to get the urls for the beatmaker. We then get the input data from each of these individual urls/records.
+
+
